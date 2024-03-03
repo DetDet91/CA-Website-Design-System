@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 10%;
+}
+.container{
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container{
+    width: 100%;
+}
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.Pastel-Neon-Blue{
+background-color: #95f7D0;
+}
+.Psychedelic-Blue{
+    background-color: #3433E0;
+}
+.Pastel-Neon-Pink{
+    background-color: #F4B4FB;
+}
+.Psychedelic-Pink{
+    background-color: #F23DE8;
+}
+.font-panel{
+    width: 45%;
+    display: inline-block;
+}
+.font-label{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.regular{
+    font-style: normal;
+}
+.bold{
+    font-weight: 700;
+}
+.Ojuju{
+    font-family:'Ojuju';
+}
+.Madimi-One{
+    font-family: 'Madimi';
+}
+.Anta{
+    font-family: 'Anta';
+}
+.text-panel h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Ojuju';
+}
+.text-panel h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Madimi';
+}
+.text-panel p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Anta';
+}
